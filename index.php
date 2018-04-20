@@ -6,6 +6,7 @@
     <body>
         <?php
             echo "index file";
+            echo "mels work";
         ?>
     </body>
 </html>
